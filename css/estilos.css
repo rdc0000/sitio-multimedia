@@ -1,0 +1,30 @@
+body{
+    background: #92A0C6;
+}
+h1{
+	font-size: 100px;
+	color: black;
+	text-align: center;
+	font-family: "font1";
+}
+p{
+	
+	font-size: 30px;
+	font-family: "font2";
+}
+@font-face{
+	font-family: "font1";
+	src:url("../fonts/font1.otf");
+}
+@font-face{
+	font-family: "font2";
+	src:url("../fonts/font2.ttf");
+}
+img{
+	
+	margin: 0 auto;
+}
+.omh{
+	margin: 0 auto;
+	display:block;
+}
